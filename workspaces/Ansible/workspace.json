@@ -1,0 +1,20 @@
+{
+  "friendly_name": "Ansible",
+  "image_src": "blob:https://appliedforce1.github.io/dfc46f97-20c1-4837-84a1-96a74f6b8e3e",
+  "description": "Ansible is a free, open-source IT automation tool that helps configure systems, deploy software, and manage infrastructure. It's written in Python and uses a human-readable language. ",
+  "cores": 2,
+  "memory": 2768,
+  "gpu_count": 0,
+  "cpu_allocation_method": "Inherit",
+  "docker_registry": "https://index.docker.io/v1/",
+  "categories": [
+    "Development"
+  ],
+  "require_gpu": false,
+  "enabled": true,
+  "image_type": "Container",
+  "name": "geerlingguy/docker-ubuntu2204-ansible",
+  "architecture": [
+    "amd64"
+  ]
+}
