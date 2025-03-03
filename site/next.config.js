@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'AF1 Kasm Registry',
+    description: 'Collection of Workspace Tools for Testing within Home Lab Environment.',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    listUrl: 'https://github.com/AppliedForce1/AF1-kasm-registry',
+    contactUrl: 'https://github.com/AppliedForce1/AF1-kasm-registry/issues',
   },
   reactStrictMode: true,
   swcMinify: true,
